@@ -30,6 +30,6 @@ Finally, there is a file to help you detect on real data.
 ![alt text](https://github.com/shivekchhabra/diagonal_object_detection_yolov80bb/blob/master/outputs/planes_detected.jpg)
 
 ## References:
-https://github.com/ultralytics/ultralytics
-https://docs.ultralytics.com/datasets/obb/
+https://github.com/ultralytics/ultralytics<br>
+https://docs.ultralytics.com/datasets/obb/<br>
 https://docs.ultralytics.com/tasks/obb/
